@@ -27,7 +27,7 @@ Para executar o programa, siga estas etapas:
 3. Execute o programa com o seguinte comando:
 
    ```
-   python nome_do_programa.py
+   python Contador de Colunas ShettsV3.py
    ```
 
 4. Uma janela de interface gráfica será exibida.
